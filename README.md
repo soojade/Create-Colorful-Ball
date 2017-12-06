@@ -1,2 +1,2 @@
-# Create-Colorful-Ball
-随机生成多个彩色小球
+# Create-Colorful-Shapes
+随机生成多种彩色图形
